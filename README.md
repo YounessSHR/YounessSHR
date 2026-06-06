@@ -1,72 +1,81 @@
 <div align="center">
 
-# 🚀 Hi there, I'm Youness Sahraoui
+# Youness Sahraoui
 
-**Full-Stack Builder | CS Engineering Student | AI Enthusiast**
+**Développeur Java Backend · Full-Stack | Étudiant Ingénieur Génie Informatique**
 
-[![](https://visitcount.itsvg.in/api?id=YounessSHR&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+*ENSA Berrechid — 4ème année*
 
-[LinkedIn](https://linkedin.com/in/youness-sahraoui) • [Portfolio](https://github.com/YounessSHR) • [Email](mailto:youyousah80@gmail.com)
-
----
-
-### 💫 About Me
-I'm a Software Engineering student at ENSA Berrechid who loves turning ideas into reality through code. Whether it's building scalable backends with **Spring Boot** or crafting sleek UIs with **Next.js**, I'm always looking for the most efficient way to solve a problem.
-
-- 🛠️ Currently polishing **LinkUp**, an automated internship ecosystem.
-- 🧠 Deep diving into **Machine Learning** and **Deep Learning**.
-- 💬 Ask me about **Java, React, or the best way to structure an API.**
-- ⚡ Fun fact: I enjoy the challenge of solving logic puzzles, both in code and in real life.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/youness-sahraoui)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youyousah80@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YounessSHR)
+[![Profile Views](https://visitcount.itsvg.in/api?id=YounessSHR&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
 
 ---
 
-### 🛠️ My Toolbox
+### 👋 À propos
+
+Étudiant ingénieur en Génie Informatique à **ENSA Berrechid**, passionné par la conception d'applications backend robustes et d'architectures REST bien structurées. J'aime aller du back jusqu'au front — et jusqu'à l'infra.
+
+- 🔧 En train de finaliser **LinkUp**, une plateforme complète de gestion de stages
+- ☕ Mon arme principale : **Java / Spring Boot**
+- 🐳 J'automatise mes déploiements avec **Docker** et **Ansible**
+- 💬 Parlez-moi de **Spring Security, REST APIs, ou architecture multi-couches**
+- 🎯 À la recherche d'un **stage PFA** en développement Java/Full-Stack
+
+---
+
+### 🛠️ Stack Technique
 
 <div align="center">
 
-| **Category** | **Technologies** |
+| **Catégorie** | **Technologies** |
 | :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white) ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
-| **Backend** | ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) |
-| **Data & IA** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
+| **Backend** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat&logo=spring&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white) |
+| **Bases de données** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
+| **APIs & Sécurité** | ![REST](https://img.shields.io/badge/-REST%20API-009688?style=flat&logo=fastapi&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
 
 </div>
 
 ---
 
-### 📂 Featured Creations
+### 📂 Projets phares
 
-#### 🔗 [LinkUp](https://github.com/YounessSHR/gestion-stages-backend)
-A complete ecosystem for internship management. I built this to solve the "paperwork headache" by automating PDF agreements, notifications, and multi-role workflows.
-`Spring Boot` `React` `MySQL` `JWT`
+#### 🔗 [LinkUp — Gestion de Stages & Alternances](https://github.com/YounessSHR/gestion-stages-backend)
+Plateforme full-stack couvrant le cycle de vie complet d'un stage : offres, candidatures, conventions PDF signées par 3 parties, suivi et notifications asynchrones.
+`Spring Boot` `Java 21` `React` `MySQL` `Spring Security` `JWT` `iText 7`
 
-#### 🤖 [Smart AI Resume Analyzer](https://github.com/abd-mjahdi/AI_python_project/tree/main/pyproject_p2/AI-CV-Analyzer)
-Using NLP to bridge the gap between job seekers and recruiters. It analyzes CVs against job descriptions to provide real-time feedback and improvement suggestions.
-`Python` `Flask` `OpenAI API` `BeautifulSoup`
+#### 🛍️ [ArtisanConnect — E-Commerce Artisanat Marocain](https://github.com/YounessSHR/artisan-connect-internship)
+Marketplace connectant artisans marocains et acheteurs internationaux. Dashboard admin complet, auth par rôles, déployé en production sur Firebase App Hosting.
+`Next.js` `Firebase` `Tailwind CSS` `Zod` `SendGrid`
 
-#### 🧩 [SlidingPuzzle Game](https://github.com/YounessSHR/SlidingPuzzle)
-An advanced desktop puzzle game focused on clean code and software architecture. Implemented using **OOP Design Patterns** to handle game logic and state persistence.
-`Java` `Swing/JavaFX` `Design Patterns (Factory, Observer)` `MySQL`
+#### ⚙️ [Infrastructure Automation avec Ansible](https://github.com/abd-mjahdi/Ansible-Linux-Server-Automation-and-Web-Deployment)
+Provisionnement automatisé de 3 VMs Ubuntu via Ansible playbooks et rôles. Déploiement multi-nœuds : Nginx + Flask (Docker Compose) + MariaDB.
+`Ansible` `Docker` `Linux` `Nginx` `MariaDB` `Jinja2`
+
+#### 🧩 [SlidingPuzzle — Jeu Desktop Java](https://github.com/YounessSHR/SlidingPuzzle)
+Application desktop de puzzle glissant avec architecture OOP soignée et persistance des scores.
+`Java` `Swing/JavaFX` `Design Patterns` `MySQL`
 
 ---
 
-### 📊 Github Stats
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YounessSHR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Youness's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YounessSHR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YounessSHR&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YounessSHR&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langs" />
 </div>
 
 ---
 
 <div align="center">
 
-### 🤝 Let's build something cool!
-*Available for internship opportunities and open-source collaboration.*
+*Ouvert aux opportunités de stage PFA — n'hésitez pas à me contacter !*
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/youness-sahraoui)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youyousah80@gmail.com)
